@@ -55,3 +55,8 @@ claude plugin validate <carpeta>
 ```
 claude plugin uninstall grafito-tibio
 ```
+
+## Licencia
+
+MIT, ver `LICENSE`. No cubre `hooks/make-colors.js` ni `hooks/make-colors.d.ts`, que vienen de
+Claude Code.
