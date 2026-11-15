@@ -1,0 +1,5 @@
+{
+  "name": "temas-locales",
+  "owner": { "name": "KGF-rgb" },
+  "plugins": [{ "name": "grafito-tibio", "source": "./" }]
+}
